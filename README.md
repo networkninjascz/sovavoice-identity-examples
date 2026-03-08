@@ -2,6 +2,8 @@
 
 This guide walks you through creating an account, logging in, and generating an API key to access the SovaVoice Speech-to-Text API.
 
+> **Windows PowerShell:** Use `curl.exe` instead of `curl` (PowerShell's built-in `curl` is an alias for `Invoke-WebRequest` and has different syntax).
+
 ---
 
 ## Step 1 — Register
